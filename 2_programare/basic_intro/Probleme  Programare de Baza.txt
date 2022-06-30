@@ -1,0 +1,41 @@
+---Probleme esentiale
+
+1.1 Suma a doua numere
+1.2 Maximul dintre doua numere
+1.3 Dublul ultimei cifra a unui numar
+1.4 Media aritmetica a doua numere
+1.5 Afisati daca un numar este par sau impar
+1.6 Afisati radicalul unui numar
+1.7 Afisati daca un numar este sau nu patrat perfect
+1.8 Implementati teorema lui pitagora
+1.9 Afisati valoare in modul a unui numar
+1.10 Calculati un procent al unui numar
+
+---Probleme cu structuri repetitice
+
+2.1 Numarati pana la n - cu exceptii
+2.2 Afisati primele n numere 0
+2.3 Calculati 1+2+3+...+x
+2.4 Calculati suma a n numere
+2.5 Afisati prima cifra a unui numar
+2.6 Calculati media aritmetica a n numere
+2.6.2 Calculati suma unoir numere diferite de 0
+2.7 Calculati media aritmetica a unui set de numere diferite de 0
+2.8 Să se scrie un program care citește un șir de n numere naturale şi determină valoarea maximă din șir
+2.9 Calculati a n-a putere a lui 2, cu si fara structura repetitiva
+2.10 Numerele naturale nenule se scriu pe linii într-un triunghi de forma de mai jos:
+	1	
+	2 3
+	4 5 6 		
+	7 8 9 10
+2.11 Se dau n numere naturale. Pentru fiecare numar x, calculati 1+(1+2)+(1+2+3)+(1+2+3+4)+...+(1+2+3+...x).
+2.12 Se citește un număr natural nenul n și apoi se citesc n numere naturale. Calculați suma dintre valoarea minimă și valoarea maximă.
+
+---Functii
+
+3.1 functi care realizeaza nimimul
+3.2 o functie care calzuleaza cel mai mare divizor al unui numar avem parametrul x si dupa returnam rezultatul
+3.3 o functie care calzuleaza cel mai mai divizor al unui numar dar fara a returna valoarea
+3.4 o fucntie care returneaza suma cifrelor unui numar f(1234) -> 10 f(453) -> 12
+3.5 o functie care realizeaza suma primelor n numere naturale f (3) -> 1+2+3 
+
