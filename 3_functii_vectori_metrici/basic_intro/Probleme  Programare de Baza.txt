@@ -1,0 +1,39 @@
+---Functii
+
+3.1 functi care realizeaza nimimul
+3.2 o functie care calzuleaza cel mai mare divizor al unui numar avem parametrul x si dupa returnam rezultatul
+3.3 o functie care calzuleaza cel mai mai divizor al unui numar dar fara a returna valoarea
+3.4 o fucntie care returneaza suma cifrelor unui numar f(1234) -> 10 f(453) -> 12
+3.5 o functie care realizeaza suma primelor n numere naturale f (3) -> 1+2+3 
+
+--- Vectori
+
+4.1 Să se determine numărul de elemente impare din vector.
+4.2 Să se afișeze elementele vectorului de pe poziții impare, în ordinea crescătoare a indicilor.
+4.3 Să se determine minimul și maximul elementelor din vector, precum și indicii acestor valori.
+4.4 Verificati daca un vector este parindrom
+4.5 Se citeste un vector A cu n (3<=n<=1000) elemente numere naturale. Verificati daca exista cel putin 3 elemente alaturate care sa aiba aceeaai paritate . Raspunsul va fi DA in caz afirmativ, altfel va fi NU.
+4.6 Ordonati un vector
+
+--- Matrici
+
+5.1 Să se interschimbe liniile pe care se află cel mai mic și respectiv cel mai mare element din matrice.
+5.2 Se da o matrice si un numar sa se determine pozitia s-a in matrice (linie si coloana) daca nu face parte din matrice se afiseaza -1 -1
+5.3 Să se determine dacă matricea dată este simetrică față de coloana sa din mijloc.
+5.4 Se citeste un numar natural n (n<=20). Construiti si afisati o matrice patratica cu n linii si n coloane dupa modelul de mai jos, obtinut pentru n=9. 
+0 0 0 0 0 0 0 0 1 
+0 0 0 0 0 0 0 1 2 
+0 0 0 0 0 0 1 2 4 
+0 0 0 0 0 1 2 4 8 
+0 0 0 0 1 2 4 8 16 
+0 0 0 1 2 4 8 16 32 
+0 0 1 2 4 8 16 32 64 
+0 1 2 4 8 16 32 64 128 
+1 2 4 8 16 32 64 128 256 
+5.5 Să se rotească o matrice cu 90 de grade in sensul acelor de ceasornic matricea dată.
+
+--- Alocare dinamica
+
+6.1 Sa se aloce dinamic un sir de numere intregi
+6.2 Sa se aloce dinamic un o matrice de n linii si m coloane
+6.3 Sa se refaca toate probleme de mai devreme insa alocarea sa fie dinamica.
