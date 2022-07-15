@@ -13,12 +13,12 @@
 4.3 Să se determine minimul și maximul elementelor din vector, precum și indicii acestor valori.
 4.4 Verificati daca un vector este parindrom
 4.5 Se citeste un vector A cu n (3<=n<=1000) elemente numere naturale. Verificati daca exista cel putin 3 elemente alaturate care sa aiba aceeaai paritate . Raspunsul va fi DA in caz afirmativ, altfel va fi NU.
-4.6 Ordonati un vector
+4.6 Ordonati un vector (daca nu iti iese iti arat eu)
 
 --- Matrici
 
 5.1 Să se interschimbe liniile pe care se află cel mai mic și respectiv cel mai mare element din matrice.
-5.2 Se da o matrice si un numar sa se determine pozitia s-a in matrice (linie si coloana) daca nu face parte din matrice se afiseaza -1 -1
+5.2 Se da o matrice sa se determine pozitia maximului in matrice (linie si coloana) daca nu face parte din matrice se afiseaza -1 -1
 5.3 Să se determine dacă matricea dată este simetrică față de coloana sa din mijloc.
 5.4 Se citeste un numar natural n (n<=20). Construiti si afisati o matrice patratica cu n linii si n coloane dupa modelul de mai jos, obtinut pentru n=9. 
 0 0 0 0 0 0 0 0 1 
